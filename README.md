@@ -23,4 +23,14 @@ Similarly, "Breakfast" may be followed by "Lunch", then "Dinner".
 Dataset is extracted from anonymized Wejoinin table header (row/column)
 data.
 
+## Installing Tensorflow
 
+Instructions here: https://www.tensorflow.org/install/install_mac
+
+Remember to source the virtualenv environment. In this example, we have
+set virtualenv to set up a virtual environment in
+`~/workspace/tensorflow`:
+
+    $ source ~/workspace/tensorflow/bin/activate
+
+Do this before attempting to start TF.
