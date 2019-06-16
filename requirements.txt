@@ -1,1 +1,6 @@
-markovify=0.4.3
+markovify
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
